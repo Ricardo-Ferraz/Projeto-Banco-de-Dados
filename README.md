@@ -15,4 +15,4 @@ No código, ir na classe ConnectionFactory e alterar algumas informações:
  - Nas variaveis globais, mudar e colocar o seu URL(Path do seu banco local), USER(usuário) e PASS(senha do seu MySQL).
 
 
-Qualquer outra coisa só me mandar um email
+Qualquer outra dúvida só me mandar um email!
