@@ -1,4 +1,4 @@
-# Projeto-Banco-de-Dados
+# Projeto Banco de Dados
 
 O projeto consiste em uma melhoria do Unicar(https://github.com/Ricardo-Ferraz/Unicar), o qual é um modelo para controle de estacionamento, utilizando banco de dados, nesse caso
 o MySQL com host local, no caso, é preciso ter o MySQL instalado.
